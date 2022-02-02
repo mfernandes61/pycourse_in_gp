@@ -1,6 +1,15 @@
-# ARCHIVED - READ ONLY - OLD 3 DAYS COURSE REPO
-
+# Marks hacked version to run on Gitpod
+ (based on https://linuxtut.com/en/dbb64871480cf1a06acf/ )
 --- 
+
+URL to launch is https://gitpod.io/#github.com/mfernandes61/pycourse_in_gp
+
+Launch jupyterlab.
+Since there is Pipfile in the repository, you can start jupyterlab just by hitting the following command.
+
+$ pipenv install
+$ pipenv shell
+([repository_name])$ jupyter lab
 
 # An introduction to solving biological problems with Python - course materials
 
